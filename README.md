@@ -54,8 +54,7 @@ O projeto é ideal para iniciantes em programação, demonstrando conceitos como
 Este projeto foi desenvolvido como exercício de programação orientada a objetos e pode ser expandido para fins educacionais ou portfólio.
 
 ## Autor
-- Leonardo Santos / SSbioSS
+- Leonardo Santos / SbioSS
 
 ## Linkedin
-- linkedin.com.br/leonardo
-Sinta-se à vontade para contribuir ou reportar issues!
+- linkedin.com/in/leonardo-santos-724979275/
